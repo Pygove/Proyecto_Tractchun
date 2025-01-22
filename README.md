@@ -42,7 +42,23 @@ Se crearon indicadores clave de desempeño (KPIs) utilizando **DAX**:
 Se añadieron filtros dinámicos e interacciones avanzadas:  
 - Filtros por año, mes y agente.  
 - Segmentación por tipo de ticket mediante bookmarks.  
-- Alternancia entre temas claro y oscuro para mejorar la experiencia de usuario.  
+- Alternancia entre temas claro y oscuro para mejorar la experiencia de usuario.
+
+<p align="center">
+  <img width="100%" height="100%" src="https://res.cloudinary.com/dq9faptjc/image/upload/v1737552899/1_qqrg2z.png">
+</p>
+<p align="center">
+  <img width="100%" height="100%" src="https://res.cloudinary.com/dq9faptjc/image/upload/v1737552899/2_j3ca5g.png">
+</p>
+<p align="center">
+  <img width="100%" height="100%" src="https://res.cloudinary.com/dq9faptjc/image/upload/v1737552899/3_e2scvf.png">
+</p>
+<p align="center">
+  <img width="100%" height="100%" src="https://res.cloudinary.com/dq9faptjc/image/upload/v1737552899/4_pxi3wz.png">
+</p>
+<p align="center">
+  <img width="100%" height="100%" src="https://res.cloudinary.com/dq9faptjc/image/upload/v1737552899/5_su9vcv.png">
+</p>
 
 ## Próximos Pasos
 Actualmente estoy trabajando en:  
